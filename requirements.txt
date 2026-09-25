@@ -1,0 +1,12 @@
+geopandas>=1.0
+shapely>=2.0
+pyogrio
+pyproj
+pandas>=2.0
+numpy
+matplotlib
+requests
+python-dotenv
+datawrapper>=2.0
+nbformat
+ipykernel
